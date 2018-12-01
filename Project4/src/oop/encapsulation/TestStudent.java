@@ -20,4 +20,5 @@ public class TestStudent {
 		System.out.println(St3.getStName()+ " " +St3.getStID()+" "+St3.getStDOB());
 	}
 		// same result with less typing and memory usage
+	new
 }
